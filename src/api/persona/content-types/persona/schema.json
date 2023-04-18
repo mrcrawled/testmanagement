@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "personas",
+  "info": {
+    "singularName": "persona",
+    "pluralName": "personas",
+    "displayName": "Persona"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nombre": {
+      "type": "text"
+    },
+    "residencia": {
+      "type": "text"
+    },
+    "edad": {
+      "type": "integer"
+    },
+    "sexo": {
+      "type": "text"
+    },
+    "estadocivil": {
+      "type": "text"
+    },
+    "estudios": {
+      "type": "text"
+    },
+    "trial734": {
+      "type": "text"
+    }
+  }
+}

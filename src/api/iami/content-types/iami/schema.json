@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "iami",
+  "info": {
+    "singularName": "iami",
+    "pluralName": "iamis",
+    "displayName": "IAMI"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nropregunta": {
+      "type": "integer"
+    },
+    "pregunta": {
+      "type": "text"
+    },
+    "col14": {
+      "type": "integer"
+    },
+    "trial540": {
+      "type": "text"
+    }
+  }
+}

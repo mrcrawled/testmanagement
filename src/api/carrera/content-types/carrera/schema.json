@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "carreras",
+  "info": {
+    "singularName": "carrera",
+    "pluralName": "carreras",
+    "displayName": "Carrera"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "carrera": {
+      "type": "string"
+    },
+    "descripcion": {
+      "type": "text"
+    }
+  }
+}

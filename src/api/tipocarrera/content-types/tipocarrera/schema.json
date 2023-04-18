@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tiposcarreras",
+  "info": {
+    "singularName": "tipocarrera",
+    "pluralName": "tiposcarreras",
+    "displayName": "TipoCarrera"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "carrera": {
+      "type": "text"
+    },
+    "tipocarrera": {
+      "type": "integer"
+    },
+    "duracion": {
+      "type": "text"
+    },
+    "trial789": {
+      "type": "text"
+    }
+  }
+}
